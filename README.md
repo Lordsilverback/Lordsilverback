@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lordsilverback
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on any simple projects you could use an extra pair of eyes on.
 - 📫 How to reach me anthonydsargent4315@gmail.com
 
